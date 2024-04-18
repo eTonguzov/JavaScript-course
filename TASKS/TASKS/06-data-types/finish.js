@@ -12,3 +12,9 @@
  * 2. Выведите в консоль тип каждого из значений
  * используя оператор typeof
  */
+let myString = 'Egor'
+let myInt = 5
+let tf = true
+let n = null
+let myUndefined;
+let 

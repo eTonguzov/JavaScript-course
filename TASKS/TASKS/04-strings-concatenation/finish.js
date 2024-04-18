@@ -10,3 +10,9 @@
  *
  * 3. Выведите значение последней переменной в консоль
  */
+let myName = 'Egor'
+let myLastName = 'Tonguzov'
+let myProfession = 'Design Engeneer'
+
+myString = 'My name is ' + myName +' ' + myLastName + ', and i\'m ' + myProfession
+console.log(myString)
